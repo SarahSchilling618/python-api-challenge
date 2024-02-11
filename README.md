@@ -1,2 +1,4 @@
 # python-api-challenge
 Module 6 Challenge
+
+This repostiory contains two .ipynb files that can be opened via Jupyter Notebook, one which contains data on the weather in certain cities across the world, and another which uses the data from the previous file to find hotels close to the aforementioned cities. These scripts can be executed by opening GitBash in the folders that the original .cvs files that the data was taken from, opening Jupyter Notebook, and opening the file I have provided. This script was written to act on a specific Jupyter Notebook/APIs workbook as an exercise at the University of Pennsylvania Data Science Bootcamp. I used information that I learned while in class, as well as the XPert Learning Assistant provided on Bootcamp Spot to help complete this assignment. I worked with classmates Katie Ballinger, Kyle Tener, Patrick Dean, Michael Nurthen, & Chau Nguyen on parts of this assignment and worked with code they helped provide.
